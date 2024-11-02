@@ -1,0 +1,19 @@
+{
+  "name": "mdast-util-to-markdown",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hast-util-from-html": "^2.0.3",
+    "hast-util-to-mdast": "^10.1.0",
+    "mdast-util-gfm": "^3.0.0",
+    "mdast-util-to-markdown": "^2.1.1"
+  }
+}
